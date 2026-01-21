@@ -17,18 +17,19 @@ The analysis focuses on **property characteristics**, **energy ratings**, and **
 manchester-epc-energy-performance-analysis/
 │
 ├── report/
-│ └── Manchester_EPC_Energy_Performance_Report.pdf
+│   └── Manchester_EPC_Energy_Performance_Report.pdf
 │
 ├── sql/
-│ └── epc_analysis_queries.sql
+│   └── epc_analysis_queries.sql
 │
 ├── powerbi/
-│ └── dashboard_screenshots/
-│ ├── overview.png
-│ ├── cost_dashboard.png
-│ ├── energy_efficiency.png
-│ ├── property_characteristics.png
-│ └── recommendation.png
+│   └── dashboard_screenshots/
+│       ├── home.png
+│       ├── overview.png
+│       ├── cost_dashboard.png
+│       ├── energy_efficiency.png
+│       ├── property_characteristics.png
+│       └── recommendation.png
 │
 └── README.md
 
