@@ -13,23 +13,26 @@ The analysis focuses on **property characteristics**, **energy ratings**, and **
 ---
 
 ## Folder Structure
-```
+
 manchester-epc-energy-performance-analysis/
 │
 ├── report/
-│   └── Manchester_EPC_Energy_Performance_Report.pdf
+│ └── Manchester_EPC_Energy_Performance_Report.pdf
 │
 ├── sql/
-│   └── epc_analysis_queries.sql
+│ └── epc_analysis_queries.sql
 │
 ├── powerbi/
-│   ├── manchester_epc_dashboard.pbix
-│   └── dashboard_screenshots/
-│       └── Dashboard.png
+│ └── dashboard_screenshots/
+│ ├── overview.png
+│ ├── cost_dashboard.png
+│ ├── energy_efficiency.png
+│ ├── property_characteristics.png
+│ └── recommendation.png
 │
 └── README.md
 
-```
+
 
 ---
 
@@ -49,7 +52,7 @@ Data is sourced from the **UK Government EPC Open Data Portal** and filtered for
 - Mid-terrace and gas-heated properties dominate EPC certificates  
 - Most properties are rated **C or D**, showing strong improvement potential  
 - Recommended upgrades (heating, solar installations) reduce costs and CO₂ emissions  
-- Interactive dashboards allow exploration by property type, energy rating, and period  
+- Interactive dashboards (shown via screenshots) allow exploration by property type, energy rating, and period  
 
 ---
 
@@ -59,6 +62,8 @@ Data is sourced from the **UK Government EPC Open Data Portal** and filtered for
 - **Power BI** – dashboards and visual insights  
 - **CSV / Excel** – raw EPC datasets  
 
+---
+
 ## Academic Context
 
 This project was completed as part of the module:
@@ -67,19 +72,20 @@ This project was completed as part of the module:
 BSc in Applied Data Science Communication  
 General Sir John Kotelawala Defence University  
 
+---
+
 ## How to Use This Repository
 
 1. Review the project report in the `report/` folder  
 2. Explore SQL logic in the `sql/` folder  
-3. Open the `.pbix` file in **Power BI Desktop** to interact with dashboards  
-4. Refer to screenshots if Power BI is unavailable  
+3. View dashboard insights via the screenshots in `powerbi/dashboard_screenshots/`  
+
 ---
 
 ## Authors / Team Members
 
 **Chamali Abeysekara**  
 BSc in Applied Data Science Communication  
-Advanced SQL and Cloud Databases  
 
 **Team Members / Contributors:**  
 - Rajintha Lakshani  
@@ -91,7 +97,3 @@ Advanced SQL and Cloud Databases
 ## Acknowledgements
 
 This project was successfully completed through effective collaboration and shared effort. Special thanks to all contributors for their support in data preparation, SQL development, and Power BI visualization.
-
----
-
-
