@@ -13,7 +13,7 @@ The analysis focuses on **property characteristics**, **energy ratings**, and **
 ---
 
 ## Folder Structure
-
+```
 manchester-epc-energy-performance-analysis/
 │
 ├── report/
@@ -32,7 +32,7 @@ manchester-epc-energy-performance-analysis/
 │
 └── README.md
 
-
+```
 
 ---
 
