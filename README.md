@@ -45,6 +45,8 @@ Analysis was conducted using:
 
 Data is sourced from the **UK Government EPC Open Data Portal** and filtered for Manchester properties.
 
+**Note:** The original datasets and the full Power BI dashboard file are not included due to file size limitations. Dashboard insights are provided via the screenshots in `powerbi/dashboard_screenshots/`.
+
 ---
 
 ## Key Insights
